@@ -136,11 +136,6 @@ Create a pull request using the GitHub interface.
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
-
-* [Arduino](https://www.arduino.cc/)
-* [ESP32](https://www.espressif.com/en/products/smart-home/esp32)
-* 
 ## 📫 How to reach me | Contact Information
 <div align="center">
   <a href="https://hjlabs.in/"><img height="36" src="https://cdn.simpleicons.org/similarweb"/></a>
