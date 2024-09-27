@@ -1,8 +1,6 @@
 # IoT Razorpay Dynamic QR Code Generator and Verifying System with HMI Screen for in store POS systems with Web admin panel
 
 ![WhatsApp Image 2024-09-11 at 7 16 27 PM](https://github.com/user-attachments/assets/1f81590a-33b6-4011-98a2-d5dc02bd3dc7)
-![Screenshot from 2024-09-27 12-23-59](https://github.com/user-attachments/assets/a7f3285d-81e1-47f0-a8f3-8dea5f5d22bf)
-
 
 A C++ project that generates dynamic QR codes using the Razorpay API for Indian UPI payments.
 
