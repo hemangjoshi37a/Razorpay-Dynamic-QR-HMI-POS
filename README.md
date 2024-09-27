@@ -45,7 +45,7 @@ To use this project, follow these steps:
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/Razorpay-QR-Code-Generator.git
+git clone https://github.com/hemangjoshi37a/Razorpay-QR-Code-Generator.git
 ```
 
 ### Step 2: Install the Arduino IDE
@@ -101,7 +101,7 @@ To contribute to this project, follow these steps:
 Fork the repository using the following command:
 
 ```bash
-git fork https://github.com/your-username/Razorpay-QR-Code-Generator.git
+git fork https://github.com/hemangjoshi37a/Razorpay-QR-Code-Generator.git
 ```
 
 ### Step 2: Create a new branch
