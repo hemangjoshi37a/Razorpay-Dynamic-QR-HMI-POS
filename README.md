@@ -72,7 +72,7 @@ Upload the code to your ESP32 board using the Arduino IDE.
 
 run `app.py` for qr to byte array conversion for displaying on the screen.
 
-### Step 7: Test the project
+### Step 8: Test the project
 
 Test the project by scanning the QR code displayed on the screen.
 
